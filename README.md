@@ -1,5 +1,9 @@
 # Soon
 
+```shell
+$ gem install soon
+```
+
 ```ruby
 
 it "eventually creates 3 instances" do
