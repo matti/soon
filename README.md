@@ -1,4 +1,4 @@
-# Soon
+# soon
 
 ```shell
 $ gem install soon
